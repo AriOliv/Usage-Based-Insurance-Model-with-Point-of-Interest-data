@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/yuxuan/Documents/essay/UBI/20181120UBI/deliver/paper/.texpadtmp/UsageBasedInsurance.aux
+The style file: unsrt.bst
+Database file #1: ../essaybib.bib
+Repeated entry---line 497 of file ../essaybib.bib
+ : @techreport{dingus2006100
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--there's a number but no volume in ferreira2012measuring
+Warning--there's a number but no volume in jun2007relationships
+Warning--there's a number but no volume in brijs2006impact
+Warning--there's a number but no volume in gordon2011analysis
+Warning--empty institution in dingus2006100
+Warning--empty journal in litman2008pay
+You've used 33 entries,
+            1791 wiz_defined-function locations,
+            626 strings with 10248 characters,
+and the built_in function-call counts, 8002 in all, are:
+= -- 734
+> -- 377
+< -- 5
++ -- 139
+- -- 106
+* -- 565
+:= -- 1278
+add.period$ -- 102
+call.type$ -- 33
+change.case$ -- 33
+chr.to.int$ -- 0
+cite$ -- 39
+duplicate$ -- 336
+empty$ -- 744
+format.name$ -- 106
+if$ -- 1760
+int.to.chr$ -- 0
+int.to.str$ -- 33
+missing$ -- 31
+newline$ -- 167
+num.names$ -- 33
+pop$ -- 82
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 145
+stack$ -- 0
+substring$ -- 587
+swap$ -- 77
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 85
+width$ -- 35
+write$ -- 358
+(There was 1 error message)

@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{INTRODUCTION}{}% 1
+\BOOKMARK [1][-]{section.2}{DATA\040DESCRIPTION}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{The\040IOV\040Data}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Descriptive\040Analysis}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{The\040POI\040Data}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Usage\040Based\040Insurance\040Model}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{The\040Construction\040of\040Predictors}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.1}{The\040IOV\040predictors}{subsection.3.1}% 8
+\BOOKMARK [3][-]{subsubsection.3.1.2}{The\040POI\040predictors}{subsection.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Estimation\040Results}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Out-of-sample\040Result\040and\040Methods\040Comparison}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Business\040Application}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Driver\040Segmentation}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.2}{Pricing\040Strategy}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Concluding\040Remarks}{}% 15
+\BOOKMARK [1][-]{section*.12}{References}{}% 16
