@@ -1,5 +1,5 @@
-This is the guidance of all the concerning files about our paper, including data, code, and complier.  
-Any questions please contact Jinchang Fan: daniel.jc.fan@gmail.com
+This is the guidance of all the concerning files about our published paper Usage Based Insurance Model with Point of Interest data [link: https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0012/0002/a014/index.html], including data, code, and complier.  
+Any questions please contact Jinchang Fan: daniel.fanjc@gmail.com
 
 code.r is the R script of our work, including model establishment and plotting.
 all .rda files are data required in our work. 
